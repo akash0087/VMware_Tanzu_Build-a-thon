@@ -1,11 +1,13 @@
 # VMware_Tanzu_Build-a-thon
-This repository contains all the supporting files that is developed while creating a full fledged project in python and flask.
+This repository contains all the supporting files that is developed while creating a full fledged project in python & flask and hosted on VMware Tanzu cloud platform.
 
 ********************************************************************
 ###    Phases that were encountered while building this project
 ********************************************************************
 
 #### To pull this docker image use command: docker pull akash0087/retinvcapp:v4
+
+#### URL of the project: akashguptaapp.apps.pcfdev.in (URL might me taken down since Tanzu cloud access was given just for bootcamp purpose).
 
 
 *** Phase-1 : Identiying the aspects for which HTML pages needs to be designed i.e home, login, registration etc. pages.
