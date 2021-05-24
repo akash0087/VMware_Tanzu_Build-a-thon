@@ -1,4 +1,7 @@
 # VMware_Tanzu_Build-a-thon
+
+## Project name: Retail Inventory Management
+
 This repository contains all the supporting files that is developed while creating a full fledged project in python & flask and hosted on VMware Tanzu cloud platform.
 
 ********************************************************************
